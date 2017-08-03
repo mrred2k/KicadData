@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2114H
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP HT1632C
+D Holtek HT1632 32x8 & 24x16 LED Driver
+K LED, matrix
+$ENDCMP
+#
+$CMP RGBLED-8X8-CA
+D 8X8 Common Anode RGB LED Matrix
+K LED, matrix, RGB
+$ENDCMP
+#
+$CMP Switch_DPST_small
+D Double Pole Single Throw (DPST) Switch
+K switch
+$ENDCMP
+#
+$CMP USB_Edge
+D USB Board Edge connector
+K connector USB
+$ENDCMP
+#
+#End Doc Library

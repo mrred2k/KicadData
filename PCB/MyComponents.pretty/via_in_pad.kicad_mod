@@ -1,0 +1,9 @@
+(module via_in_pad (layer F.Cu) (tedit 58827C77)
+  (fp_text reference REF** (at 0 2.54) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "Via in Pad" (at 0 -2.54) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 1 1) (drill 0.3) (layers *.Cu *.Mask))
+)
